@@ -96,8 +96,8 @@ Aditi Jadhav
 | 🔗 : www.linkedin.com/in/aditijadhav-data
 
 Prerna Mhaske
-📧 : member3@email.com
-| 🔗 : linkedin.com/in/member3
+📧 : prernamhaske4@gmail.com
+| 🔗 : https://www.linkedin.com/in/prerna-mhaske-data
 
 👉 Pro tip
 
