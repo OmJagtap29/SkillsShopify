@@ -37,3 +37,70 @@ Deployment Tools: Docker (optional)
 ![Add Product](screenshots/add_product.png)
 ![Add Product Category](screenshots/add_product_category.png)
 ![Edit Product](screenshots/edit_product.png)
+
+⚡ Installation & Setup
+
+1. Clone the repository
+
+git clone https://github.com/your-username/SkillsShopify.git
+
+cd SkillsShopify
+
+
+2. Create a virtual environment & activate it
+
+python -m venv env
+
+source env/bin/activate   # for Linux/Mac
+
+env\Scripts\activate      # for Windows
+
+
+3. Install dependencies
+
+pip install -r requirements.txt
+
+
+4. Run migrations
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+
+5. Start the server
+
+python manage.py runserver
+
+
+6. Open in browser
+   
+👉 http://127.0.0.1:8000/
+
+📌 Future Enhancements
+
+Integration of Recommendation System (AI/ML) for personalized suggestions
+
+Role-based authentication (Admin, Seller, Buyer)
+
+REST APIs for external integrations
+
+👥 Authors
+
+Om Jagtap
+📧 : omjagtap678@gmail.com
+| 🔗 : www.linkedin.com/in/om-jagtap-43060b328
+
+Aditi Jadhav
+📧 : aditijadhav214@gmail.com
+| 🔗 : www.linkedin.com/in/aditijadhav-data
+
+Prerna Mhaske
+📧 : member3@email.com
+| 🔗 : linkedin.com/in/member3
+
+👉 Pro tip
+
+Add a requirements.txt file using:
+
+pip freeze > requirements.txt
