@@ -30,3 +30,10 @@ Version Control: Git & GitHub
 
 Deployment Tools: Docker (optional)
 
+
+## 📸 Screenshots
+![Dashboard](screenshots/dashboard_01.png)
+![Dashboard](screenshots/dashboard_02.png)
+![Add Product](screenshots/add_product.png)
+![Add Product Category](screenshots/add_product_category.png)
+![Edit Product](screenshots/edit_product.png)
